@@ -4,12 +4,12 @@
 *Desenvolvedor Backend (Java & PHP) | Graduando em ADS e Pós-Graduando em Engenharia de Software*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uandersonrocha)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urochatech@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](urochatech@gmail.com)
 
 </div>
 
 ## 📑 Resumo Profissional
-Profissional em transição estratégica da área da Saúde para a Tecnologia. Utilizo o rigor analítico da formação em Radiologia para o desenvolvimento de software robusto. Atualmente focado em ecossistemas *Java (Spring Boot)* e *PHP, com aplicação de **Clean Code, **Arquitetura MVC* e *Docker*.
+Profissional em transição estratégica da área da Saúde para a Tecnologia. Utilizo o rigor analítico da formação em Radiologia para o desenvolvimento de software robusto. Atualmente focado em ecossistemas *Java (Spring Boot)* e *PHP (laravel), com aplicação de **Clean Code, **Arquitetura MVC* e *Docker*.
 
 * 💡 *Foco Atual:* Especialização em AWS Cloud pela Escola da Nuvem.
 * 🎯 *Objetivo:* Estágio em Desenvolvimento de Software / Backend.
